@@ -147,20 +147,22 @@ If you discover a security vulnerability within PocketBase, please send an e-mai
 
 All reports will be promptly addressed, and you'll be credited accordingly.
 
-## Contributing
 
-PocketBase is free and open source project licensed under the [MIT License](LICENSE.md).
-You are free to do whatever you want with it, even offering it as a paid service.
+- **Learning Go**: This fork is not just about personalizing the project, but also serves as a platform for learning and experimenting with Go. It's a great opportunity to understand the language's features, syntax, and best practices in the context of a real-world project.
 
-You could help continuing its development by:
+ 
+## ABOUT THIS FORK
+This fork is intended for personal use and will only undergo minor modifications to better suit personal projects. It will remain in sync with the master branch of the main repository, incorporating all updates while also introducing minor tweaks as needed.
 
-- [Contribute to the source code](CONTRIBUTING.md)
-- [Suggest new features and report issues](https://github.com/pocketbase/pocketbase/issues)
+Here are a few key points about this fork:
 
-PRs for new OAuth2 providers, bug fixes, code optimizations and documentation improvements are more than welcome.
+- **Personalized Adjustments**: The codebase will be adjusted to better fit personal project requirements. This could include changes in configuration, addition of specific features, or removal of unnecessary components.
 
-But please refrain creating PRs for _new features_ without previously discussing the implementation details.
-PocketBase has a [roadmap](https://github.com/orgs/pocketbase/projects/2) and I try to work on issues in specific order and such PRs often come in out of nowhere and skew all initial planning with tedious back-and-forth communication.
+- **Sync with Main Repo**: Regular updates will be pulled from the master branch of the main repository. This ensures that the fork benefits from all the latest improvements and bug fixes made in the main project.
 
-Don't get upset if I close your PR, even if it is well executed and tested. This doesn't mean that it will never be merged.
-Later we can always refer to it and/or take pieces of your implementation when the time comes to work on the issue (don't worry you'll be credited in the release notes).
+- **Minor Tweaks**: Alongside the updates from the main repo, this fork will also introduce minor tweaks. These tweaks are aimed at improving the usability or performance of the project in the context of personal use.
+
+Remember, the goal of this fork is not to diverge significantly from the main project, but to tailor it to personal needs while staying updated with the main repo's progress.
+
+## Happy Coding
+Enjoy working with this personalized version of the project. Happy coding!
